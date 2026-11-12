@@ -2,6 +2,10 @@
 
 A personal weight loss tracker with calorie calculator, milestone tracking, and progress chart. Runs entirely in the browser — no backend, no account needed.
 
+## 🚀 Live Demo
+
+> Deployed via GitHub Pages: https://mriodrs.github.io/weight_tracker
+
 ## Features
 
 - **Progress chart** — projection line vs actual weighed-in data, with milestone dots you can click to mark as reached
